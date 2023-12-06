@@ -4,7 +4,7 @@ title: "Current job openings"
 modified: 2023-12-06
 ---
 
-# Postdoctoral research fellow at Harvard Medical School
+## Postdoctoral research fellow at Harvard Medical School
 The Machine Learning for Medical Language (MLML) lab at Harvard Medical School and Boston Children's Hospital has an opening for a postdoctoral research fellow. This position is supported by a federal research grant, with the goal of developing multi-modal representations of patients from electronic health records for clinical classification tasks. We work with world class clinical collaborators in areas including critical care, mental illness (psychosis and depression), cancer, and congenital heart disease.
  
 This position will be a great fit for anyone interested in:
