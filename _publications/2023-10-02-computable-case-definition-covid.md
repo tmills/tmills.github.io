@@ -1,7 +1,7 @@
 ---
 title: "A computable case definition for patients with SARS-CoV2 testing that occurred outside the hospital"
 collection: publications
-permalink: /publications/
+permalink: /publications/2023-10-02-computable-case-definition-covid.md
 excerpt: 'Objective: To identify a cohort of COVID-19 cases, including when evidence of virus positivity was only mentioned in the clinical text, not in structured laboratory data in the electronic health record (EHR).'
 date: 2023-10-01
 venue: 'JAMIA Open'
