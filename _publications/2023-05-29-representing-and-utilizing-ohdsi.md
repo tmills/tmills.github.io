@@ -1,7 +1,7 @@
 ---
 title: "Representing and utilizing clinical textual data for real world studies: An OHDSI approach"
 collection: publications
-permalink: /publications/2023-05-29-representing-and-utilizing-ohdsi.md
+permalink: /publications/2023-05-29-representing-and-utilizing-ohdsi
 excerpt: "Clinical documentation in electronic health records contains crucial narratives and details about patients and their care. Natural language processing (NLP) can unlock the information conveyed in clinical notes and reports, and thus plays a critical role in real-world studies. The NLP Working Group at the Observational Health Data Sciences and Informatics (OHDSI) consortium was established to develop methods and tools to promote the use of textual data and NLP in real-world observational studies. In this paper, we describe a framework for representing and utilizing textual data in real-world evidence generation, including representations of information from clinical text in the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM), the workflow and tools that were developed to extract, transform and load (ETL) data from clinical notes into tables in OMOP CDM, as well as current applications and specific use cases of the proposed OHDSI NLP solution at large consortia and individual institutions with English textual data. Challenges faced and lessons learned during the process are also discussed to provide valuable insights for researchers who are planning to implement NLP solutions in real-world studies." # abstract can go here
 date: 2023-05-29
 venue: 'Journal of Biomedical Informatics' # journal/conference name
