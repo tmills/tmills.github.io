@@ -6,6 +6,6 @@ excerpt: 'Radiotherapy (RT) toxicities can impair survival and quality-of-life, 
 date: 2023-10-01
 venue: 'International Journal of Radiation Oncology, Biology, Physics'
 paperurl: 'https://doi.org/10.1016/j.ijrobp.2023.06.238'
-citation: 'Chen et al., “Deep Learning-Based Natural Language Processing to Automate Esophagitis Severity Grading from the Electronic Health Records.”'
+citation: ''
 ---
 
