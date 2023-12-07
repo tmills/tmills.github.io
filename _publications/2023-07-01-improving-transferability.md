@@ -6,5 +6,8 @@ excerpt: 'Text in electronic health records is organized into sections, and clas
 date: 2023-07-07
 venue: 'Proceedings of the 5th Clinical Natural Language Processing Workshop'
 paperurl: 'https://aclanthology.org/2023.clinicalnlp-1.16/'
-citation: 'Weipeng Zhou, Majid Afshar, Dmitriy Dligach, Yanjun Gao, and Timothy Miller. 2023. Improving the Transferability of Clinical Note Section Classification Models with BERT and Large Language Model Ensembles. In Proceedings of the 5th Clinical Natural Language Processing Workshop, pages 125–130, Toronto, Canada. Association for Computational Linguistics.'
+citation: 'Weipeng Zhou, Majid Afshar, Dmitriy Dligach, Yanjun Gao, and <b>Timothy Miller</b>. 2023. Improving the Transferability of Clinical Note Section Classification Models with BERT and Large Language Model Ensembles. In Proceedings of the 5th Clinical Natural Language Processing Workshop, pages 125–130, Toronto, Canada. Association for Computational Linguistics.'
 ---
+
+Testing
+
