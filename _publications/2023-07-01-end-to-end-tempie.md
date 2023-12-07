@@ -6,5 +6,5 @@ excerpt: "Understanding temporal relationships in text from electronic health re
 date: 2023-07-01
 venue: 'The 22nd Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks'
 paperurl: 'https://aclanthology.org/2023.bionlp-1.28/'
-citation: 'Timothy Miller, Steven Bethard, Dmitriy Dligach, and Guergana Savova. 2023. End-to-end clinical temporal information extraction with multi-head attention. In The 22nd Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks, pages 313–319, Toronto, Canada. Association for Computational Linguistics.'
+citation: '<b>Timothy Miller</b>, Steven Bethard, Dmitriy Dligach, and Guergana Savova. 2023. End-to-end clinical temporal information extraction with multi-head attention. In The 22nd Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks, pages 313–319, Toronto, Canada. Association for Computational Linguistics.'
 ---
